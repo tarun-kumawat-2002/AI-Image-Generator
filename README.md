@@ -1,3 +1,5 @@
+https://github.com/tarun-kumawat-2002/AI-Image-Generator/assets/143867828/96f75edf-298e-46c9-84fc-f7e173d69f51
+
 # AI-Image-Generator
  Welcome to the AI Image Generation App! This application allows you to generate images based on textual 
  descriptions using the power of AI.
